@@ -16,6 +16,8 @@ website:
       background: light
       logo: /assets/images/MARVIN pic.JPG
       contents:
+          - text: "GitHub"
+            href: "https://github.com/josephoddy"
           - text: "Web of Science"
             href: "https://www.webofscience.com/wos/author/record/HGC-8340-2022"
           - text: "ORCID"
