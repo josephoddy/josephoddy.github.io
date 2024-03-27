@@ -30,5 +30,4 @@ Using a soft wheat mapping population developed in collaboration with John Innes
 
 In combination with the above genetic studies, I also investigated the agronomic control (nitrogen and sulphur management) of free asparagine. In parallel, I looked into whether multispectral measurements of plants and grain could be used to predict asparagine content. The article from this work is available [here](https://pubs.acs.org/doi/full/10.1021/acs.jafc.2c07208) and code/data is available [here](https://zenodo.org/record/7760903#.ZCMNXHbMJaQ).
 
-![alt text](/assets/images/JAFC_cover.jpg)
-Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC.
+![alt text](/assets/images/JAFC_cover.jpg) Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC.

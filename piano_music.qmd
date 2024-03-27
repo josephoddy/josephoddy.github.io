@@ -1,0 +1,21 @@
+I like writing piano music sometimes, you can check it out below or [here](https://github.com/JosephOddy/PianoCompositions).
+
+## Four Movements
+
+```{=html}
+<object data="piano_music/Four Movements.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="piano_music/Four Movements.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+## Four More Movements
+
+```{=html}
+<object data="piano_music/Four More Movements.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="piano_music/Four More Movements.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      - analysis.qmd
+      - href: piano_music.qmd
+        text: Piano music
   sidebar:
     - id: id-links
       title: "Links"
@@ -26,8 +27,6 @@ website:
             href: "https://scholar.google.com/citations?user=C5t6-asAAAAJ&hl=en"
           - text: "Linkedin"
             href: "https://www.linkedin.com/in/joseph-oddy-879561131/"
-          - text: "Piano music"
-            href: "https://github.com/JosephOddy/PianoCompositions"
     
 format:
   html:
