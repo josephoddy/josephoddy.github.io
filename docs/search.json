@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Joseph Oddy",
     "section": "",
-    "text": "I’m currently working as a Data Scientist at Cell and Gene Therapy Catapult, aiming to deliver research to help bring new ATMPs (advanced therapy medicinal products) to patients.\n\n\nI re-analysed data from my PhD (see below) to assess the accuracy of neural networks for prediction of grain asparagine content from imaging data. The results of this analysis are available on bioRxiv here.\n\n\n\nAs a postdoctoral researcher at the University of Oxford, I led on a project editing the SP1 and SP2 genes in wheat (components of the chloroplast-associated protein degradation system) to develop new varieties of stay-green wheat. An overview of this work is shown in a poster I presented here."
+    "text": "I’m currently a Data Scientist at Cell and Gene Therapy Catapult, working on projects to help scale-up and improve the production of cell and gene therapies with bioinformatics, modelling, and other tools."
   },
   {
     "objectID": "index.html#recent-research",
@@ -18,7 +18,7 @@
     "href": "index.html#phd-research",
     "title": "Joseph Oddy",
     "section": "PhD Research",
-    "text": "PhD Research\nI completed my PhD at Rothamsted Research (along with partners at the University of Reading and Mondelez International) on the genetic and agronomic control of free asparagine accumulation in wheat.\n\nInvestigating natural diversity in the asparagine synthetase family\nIn collaboration with a group at Colorado State University, we investigated a deletion of one of the wheat asparagine synthetase genes (TaASN-B2) and how this impacts grain asparagine content in the field. Our paper on this is available here and code/data is available here.\n\n\nFinding stable QTL for quality traits and amino acids\nUsing a soft wheat mapping population developed in collaboration with John Innes Centre and Limagrain, we investigated stable QTL for asparagine and other quality traits that can be incorporated into breeding programs. I also looked at the capacity for genomic prediction to be used for these traits and leveraged recently released wheat pangenome resources to identify underlying candidate genes controlling lysine content. The article from this work is available here. The data is available at Dryad here and the code is available at Zenodo here.\n\n\nGrowing low asparagine wheat\nIn combination with the above genetic studies, I also investigated the agronomic control (nitrogen and sulphur management) of free asparagine. In parallel, I looked into whether multispectral measurements of plants and grain could be used to predict asparagine content. The article from this work is available here and code/data is available here.\n Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC."
+    "text": "PhD Research\nI completed my PhD at Rothamsted Research (along with partners at the University of Reading and Mondelez International) on the genetic and agronomic control of free asparagine accumulation in wheat.\n\nInvestigating natural diversity in the asparagine synthetase family\nIn collaboration with a group at Colorado State University, we investigated a deletion of one of the wheat asparagine synthetase genes (TaASN-B2) and how this impacts grain asparagine content in the field. Our paper on this is available here and code/data is available here.\n\n\nFinding stable QTL for quality traits and amino acids\nUsing a soft wheat mapping population developed in collaboration with John Innes Centre and Limagrain, we investigated stable QTL for asparagine and other quality traits that can be incorporated into breeding programs. I also looked at the capacity for genomic prediction to be used for these traits and leveraged recently released wheat pangenome resources to identify underlying candidate genes controlling lysine content. The article from this work is available here. The data is available at Dryad here and the code is available at Zenodo here.\n\n\nGrowing low asparagine wheat\nIn combination with the above genetic studies, I also investigated the agronomic control (nitrogen and sulphur management) of free asparagine. In parallel, I looked into whether multispectral measurements of plants and grain could be used to predict asparagine content. The article from this work is available here and code/data is available here.\n Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC.\n\n\nNeural networks for prediction of grain asparagine content\nI re-analysed data from my PhD (see below) to assess the accuracy of neural networks for prediction of grain asparagine content from imaging data. The results of this analysis are available on bioRxiv here."
   },
   {
     "objectID": "piano_music.html",
@@ -40,5 +40,19 @@
     "title": "Joseph Oddy",
     "section": "Four More Movements",
     "text": "Four More Movements\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Joseph Oddy",
+    "section": "",
+    "text": "I’m currently a Data Scientist at Cell and Gene Therapy Catapult, working on projects to help scale-up and improve the production of cell and gene therapies with bioinformatics, modelling, and other tools."
+  },
+  {
+    "objectID": "index.html#postdoc-research",
+    "href": "index.html#postdoc-research",
+    "title": "Joseph Oddy",
+    "section": "Postdoc Research",
+    "text": "Postdoc Research\nAs a postdoctoral researcher at the University of Oxford, I led on a project editing the SP1 and SP2 genes in wheat (components of the chloroplast-associated protein degradation system) to develop new varieties of stay-green wheat. An overview of this work is shown in a poster I presented here."
   }
 ]
