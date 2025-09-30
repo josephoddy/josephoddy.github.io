@@ -4,15 +4,19 @@ sidebar: id-links
 
 ## Current Research
 
-I'm currently a Data Scientist at Cell and Gene Therapy Catapult, working on projects to help scale-up and improve the production of cell and gene therapies with bioinformatics, modelling, and other tools.
+I'm currently a data scientist at Cell and Gene Therapy Catapult, working on projects to help scale-up and improve the production of cell and gene therapies with bioinformatics, modelling, and other tools.
 
 ## Postdoc Research
 
-As a postdoctoral researcher at the University of Oxford, I led on a project editing the SP1 and SP2 genes in wheat (components of the chloroplast-associated protein degradation system) to develop new varieties of stay-green wheat. An overview of this work is shown in a poster I presented [here](https://doi.org/10.5281/zenodo.10262994).
+As a postdoctoral researcher at the University of Oxford, I led on a project editing the SP1 and SP2 genes in wheat (components of the chloroplast-associated protein degradation system) to develop new varieties of stay-green wheat (a phenotype associated with improved stress tolerance). An overview of this work is shown in a poster I presented [here](https://doi.org/10.5281/zenodo.10262994).
+
+The lines I developed are now being grown in multiple field trials across the UK to assess their performance, see [this link for more information](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21200).
 
 ## PhD Research
 
-I completed my PhD at Rothamsted Research (along with partners at the University of Reading and Mondelez International) on the genetic and agronomic control of free asparagine accumulation in wheat.
+I completed my PhD at Rothamsted Research (along with partners at the University of Reading and Mondelez International) on the genetic and agronomic control of free asparagine accumulation in wheat. The projects I carried out are described in more detail below. 
+
+I also helped my team undertake analysis of the first field trial of gene-edited wheat in Europe. The scientific article can be read [here](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14026?msockid=2d7c6711fd7364ff025a72acfcf6655d) and some of the media coverage can be seen [here](https://www.dailymail.co.uk/sciencetech/article-9950917/British-scientists-growing-new-strain-gene-edited-wheat.html).
 
 ### Investigating natural diversity in the asparagine synthetase family
 
@@ -26,7 +30,9 @@ Using a soft wheat mapping population developed in collaboration with John Innes
 
 In combination with the above genetic studies, I also investigated the agronomic control (nitrogen and sulphur management) of free asparagine. In parallel, I looked into whether multispectral measurements of plants and grain could be used to predict asparagine content. The article from this work is available [here](https://pubs.acs.org/doi/full/10.1021/acs.jafc.2c07208) and code/data is available [here](https://zenodo.org/record/7760903#.ZCMNXHbMJaQ).
 
-![alt text](/assets/images/JAFC_cover.jpg) Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC.
+<img src="/assets/images/JAFC_cover.jpg" alt="JAFC cover biscuits" style="float: right; width: 200px; margin-left: 15px; margin-bottom: 10px;" />
+
+Our photograph of biscuits with varying acrylamide content (ranging from low to high from light to darker colour) was selected for the cover of this issue of JAFC.
 
 ### Neural networks for prediction of grain asparagine content
 
