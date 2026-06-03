@@ -1,4 +1,21 @@
-I like writing piano music sometimes, you can check it out below or [here](https://github.com/JosephOddy/PianoCompositions).
+I like writing piano music sometimes, you can see some recordings on youtube [here](https://www.youtube.com/@joseph-w-oddy/playlists). The sheet music is also available on github [here](https://github.com/JosephOddy/piano_pieces).
+
+# Recordings
+
+## Four More Movements
+
+```{=html}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/qEdp00cfZbs?list=PLsD5PIZKQXgP3GaVXeIQoTqaYVyzHdcSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
+```
+
+## Rose
+
+```{=html}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/2mZLQ8sBwz0?list=PLsD5PIZKQXgMreky-QEvFbW4rXwm90Pf5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
+```
+
+
+# Sheet music
 
 ## Four Movements
 
